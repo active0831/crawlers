@@ -1,5 +1,8 @@
 # DC Gallery Scrap v23.02
  - DC 인사이드 갤러리 게시글 제목들로부터 키워드를 추출하는 프로그램입니다.
+ 
+![dc_gallery_scrap_v2301](https://github.com/active0831/crawlers/assets/91447903/82f28f32-1765-46cb-a0b0-b3e2727c598e)
+
  - 작성일 : 2023.07.05
  - 업데이트 : 
    - 설치 기능 추가 (2023.7.7)
